@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Counter-Strike: Global Offensive",
+    "genre": "Шутер",
+    "platform": "Win, MacOS, Linux",
+    "year": 2012.0,
+    "price": 15.0
+  },
+  {
+    "name": "Dota2",
+    "genre": "Стратегия",
+    "platform": "Win, MacOS",
+    "year": 2005.0,
+    "price": 0.0
+  },
+  {
+    "name": "PUBG: BATTLEGROUNDS",
+    "genre": "Выживание",
+    "platform": "Win, MacOS, Xbox One, PS4, Stadia, iOS, Android",
+    "year": 2017.0,
+    "price": 0.0
+  },
+  {
+    "name": "Rust",
+    "genre": "Выживание",
+    "platform": "Win, MacOS, Linux",
+    "year": 2013.0,
+    "price": 40.0
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "genre": "Экшн",
+    "platform": "Win, PS4, Xbox One, PS3, Xbox 360",
+    "year": 2013.0,
+    "price": 40.0
+  },
+  {
+    "name": "Team Fortress 2",
+    "genre": "Экшен",
+    "platform": "Win, MacOS, Linux",
+    "year": 2007.0,
+    "price": 0.0
+  },
+  {
+    "name": "тест",
+    "genre": "23",
+    "platform": "23",
+    "year": 23.0,
+    "price": 23.0
+  }
+]
